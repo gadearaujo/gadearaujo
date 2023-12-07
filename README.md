@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&bg_color=DEG,#00A6EF,#0597F0,#0781EF&layout=donut-vertical)](https://github.com/gadearaujo/github-readme-stats)
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=gadearaujo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 
 ## Contact
