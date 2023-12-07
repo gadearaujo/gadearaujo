@@ -3,6 +3,8 @@
  ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=gadearaujo&bg_color=30,00276D,008BFF&title_color=fff&text_color=fff)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&layout=compact)
+
 
 ## Contact
  <a href = "mailto:ga.dearaujo4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
