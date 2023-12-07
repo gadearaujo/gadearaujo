@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadearaujo)](https://github.com/gadearaujo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadearaujo&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&layout=donut-vertical)](https://github.com/gadearaujo/github-readme-stats)
 
