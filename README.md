@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=gadearaujo&bg_color=30,008CCC,1EA8F0&title_color=fff&text_color=fff)
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=gadearaujo&bg_color=30,00276D,0047CC&title_color=fff&text_color=fff)
 
 
 
