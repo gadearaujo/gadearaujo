@@ -3,9 +3,9 @@
 My name is Gabriel and I am passionate about technology ❤️
 
 #
-Front-end with Android[Java] -- Flutter [Android & iOS & WEB] Developer 
+Front-end with Android[Java] and Flutter [Android & iOS & WEB] Developer.
 #
-Back-end Spring Boot with Kotli
+Back-end Spring Boot with Kotlin.
 #
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Android" height="40" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-          badge&logo=android&logoColor=white">
@@ -25,7 +25,7 @@ Back-end Spring Boot with Kotli
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&layout=compact)
 
 
-## 📫 How to reach me:
+## 📫 How to reach me for job or doubt:
  <a href = "mailto:ga.dearaujo4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--
 **gadearaujo/gadearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
