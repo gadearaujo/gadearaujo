@@ -2,6 +2,11 @@
 
 My name is Gabriel and I am passionate about technology ❤️
 
+#
+Front-end with Android[Java] -- Flutter [Android & iOS & WEB] Developer 
+#
+Back-end Spring Boot with Kotli
+#
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Android" height="40" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-          badge&logo=android&logoColor=white">
   <img align="center" alt="Gabriel-Kotlin"  height="40" width="100" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-          badge&logo=kotlin&logoColor=white">
