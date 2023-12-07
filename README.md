@@ -12,6 +12,8 @@ My name is Gabriel and I am passionate about technology ❤️
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+##
+
  ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=gadearaujo&bg_color=30,00276D,008BFF&title_color=fff&text_color=fff)
 
 
