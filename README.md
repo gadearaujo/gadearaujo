@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadearaujo&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&layout=donut-vertical)](https://github.com/gadearaujo/github-readme-stats)
 
 
+ <a href = "mailto:ga.dearaujo4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!--
 **gadearaujo/gadearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
