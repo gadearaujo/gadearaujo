@@ -3,7 +3,7 @@
 My name is Gabriel and I am passionate about technology ❤️
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Android" height="30" width="40" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img align="center" alt="Gabriel-Android" height="30" width="60" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img align="center" alt="Gabriel-Flutter" height="30" width="40" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img align="center" alt="Gabriel-Spring" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img align="center" alt="Gabriel-Dart" height="30" width="40" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
