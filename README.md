@@ -3,7 +3,7 @@
 My name is Gabriel and I am passionate about technology ❤️
 
 #
-Front-end with Android[Java] and Flutter [Android & iOS & WEB] Developer.
+Front-end with Android[Java] and Flutter [Android & iOS & WEB].
 #
 Back-end Spring Boot with Kotlin.
 #
