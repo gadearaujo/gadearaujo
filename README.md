@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&layout=donut-vertical)](https://github.com/gadearaujo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&bg_color=DEG,#00A6EF,#0597F0,#0781EF&layout=donut-vertical)](https://github.com/gadearaujo/github-readme-stats)
 
 
+## Contact
  <a href = "mailto:ga.dearaujo4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!--
