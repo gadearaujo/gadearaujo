@@ -5,7 +5,7 @@ My name is Gabriel and I am passionate about technology ❤️
 #
 Front-end with Android[Java] and Flutter [Android & iOS & WEB].
 #
-Back-end Spring Boot with Kotlin.
+Back-end Spring Boot with Kotlin and Java.
 #
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Android" height="40" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-          badge&logo=android&logoColor=white">
