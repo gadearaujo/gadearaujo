@@ -22,7 +22,7 @@ Back-end Spring Boot with Kotlin and Java.
  ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=gadearaujo&bg_color=30,00276D,008BFF&title_color=fff&text_color=fff)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&layout=compact&show_icons=true)
 
 
 ## 📫 How to reach me for job or doubt:
