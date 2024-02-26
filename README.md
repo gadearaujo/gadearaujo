@@ -19,7 +19,7 @@ Back-end Spring Boot with Kotlin and Java.
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&layout=compact&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=html,scss,stylus,blade,jupyter%20notebook,python,java,css,shell,batchfile,dockerfile,typescript,ruby,swift,objective-c&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadearaujo&layout=compact&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript,ruby,swift,objective-c&theme=algolia)
 
 
 ## 📫 How to reach me for job or doubt:
