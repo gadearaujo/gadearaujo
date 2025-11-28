@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Gabriel and I am passionate about technology ❤️
 
